@@ -1,0 +1,6 @@
+THIS LINK ADD IN AURDINO SOFTWARE FILE-->PREFRENCE-->ADDITIONAL_MANAGER_URL "https://arduino.esp8266.com/stable/package_esp8266com_index.json" 
+
+NEW FINGERPRINT LINK "https://www.grc.com/fingerprints.htm?domain=test.firebaseio.com"
+
+path to update fingerprint "C:\Users\acer\Documents\Arduino\libraries\firebase-arduino-master\src\FirebaseHttpClient.h"
+open the FirebaseHttpClient.h in Notepad and update the key
